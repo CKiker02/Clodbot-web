@@ -2,7 +2,7 @@
 
 ### The 'AI' That Does Literally Nothing.
 
-**[View Live Site](https://thestoryofgrit.github.io/fakeclaw-web/)**
+**[View Live Site](https://Ckiker02.github.io/fakeclaw-web/)**
 
 ---
 
